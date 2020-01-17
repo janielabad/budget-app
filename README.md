@@ -1,2 +1,2 @@
 # budget-app
-budget calculator; keeps track of income and expenses
+Practice project for Learn JavaScript course by Jonas Schmedtmann.
